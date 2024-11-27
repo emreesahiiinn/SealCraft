@@ -1,0 +1,129 @@
+/BigiBagi.sln
+
+# Binaries
+Debug/
+Release/
+x64/
+x86/
+AnyCPU/
+*.exe
+*.pdb
+*.dll
+*.dbmdl
+*.deploy
+
+# Visual Studio Code
+.vscode/
+.vs
+
+# Rider
+.idea/
+rider
+*.restore.info
+*.nuget.cache
+*/rider.project
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+bin
+obj
+
+# VS Code directories
+.vscode/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# JetBrains Rider
+.idea/
+
+# Mac OS X metadata
+.DS_Store
+
+# Python specific files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual environments
+venv/
+ENV/
+env/
+venv.bak/
+
+# pytest cache
+.cache/
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Python config files
+*.pylintrc
+*.flake8
+*.mypy_cache/
+.dmypy.json
+.pyre/
+.spyderproject
+.spyproject
+
+# SQL database files
+*.sqlite3
+
+# Windows-specific configuration files
+*.ini
+*.log

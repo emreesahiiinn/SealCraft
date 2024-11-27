@@ -1,0 +1,6 @@
+@SealCraft.Presentation_HostAddress = http://localhost:5001
+
+GET {{SealCraft.Presentation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
